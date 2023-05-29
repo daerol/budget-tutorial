@@ -1,42 +1,42 @@
 {
   "entries": [
     {
-      "id": 1,
-      "description": "Work income"
-    },
-    {
       "id": 2,
-      "description": "Water bill"
-    },
-    {
-      "id": 3,
       "description": "Rent"
     },
     {
       "id": 4,
-      "description": "Power bill"
+      "description": "Job income"
+    },
+    {
+      "id": "cc291426-73ac-4183-aa41-ddc7209b6e56",
+      "description": "new thing"
+    },
+    {
+      "id": "9f71a9ad-877b-4ea2-bf25-3dfbe39e2f9f",
+      "description": "Job income"
     }
   ],
   "values": [
     {
-      "id": 1,
-      "value": 1000.0,
-      "isExpense": false
-    },
-    {
       "id": 2,
-      "value": 60.0,
-      "isExpense": true
-    },
-    {
-      "id": 3,
-      "value": 300.0,
+      "value": 1000,
       "isExpense": true
     },
     {
       "id": 4,
-      "value": 50.0,
+      "value": 50,
       "isExpense": true
+    },
+    {
+      "id": "cc291426-73ac-4183-aa41-ddc7209b6e56",
+      "isExpense": true,
+      "value": "100"
+    },
+    {
+      "id": "9f71a9ad-877b-4ea2-bf25-3dfbe39e2f9f",
+      "isExpense": false,
+      "value": "10000"
     }
   ]
 }
